@@ -1,6 +1,10 @@
 # 伦理对齐性协议：爱的证明的一个核心协议
+ver 0.1
+
 
 周朝晖 (Derek DAism.Zhou, [0xDD@daism.io](https://daism.io/0xDD))
+
+
 
 
 
