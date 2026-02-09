@@ -2,7 +2,7 @@
 ver 0.1
 
 
-周朝晖 (Derek DAism.Zhou, [0xDD@daism.io](https://daism.io/0xDD))
+周朝晖 (DD Zhou, [0xDD@daism.io](https://daism.io/0xDD))
 
 
 
